@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "img": "https://i.ibb.co/dP8Q5r9/Rectangle-2-2.png",
+        "title": "Introduction to C Programming",
+        "detail": "Learn the basics of C programming language. Understand variables, loops, arrays, and more.",
+        "hour": 1,
+        "price": 15000
+    },
+    {
+        "id": 2,
+        "img": "https://i.ibb.co/dD9nqvD/Rectangle-2-3.png",
+        "title": "Introduction to Algorithms",
+        "detail": "Explore fundamental algorithms and data structures. Analyze algorithm complexity.",
+        "hour": 2,
+        "price": 25000
+    },
+    {
+        "id": 3,
+        "img": "https://i.ibb.co/5cGRpPp/Rectangle-2-4.png",
+        "title": "Introduction to C++ for DSA",
+        "detail": "Master C++ basics for Data Structures and Algorithms. Learn about classes, objects, and more.",
+        "hour": 10,
+        "price": 10000
+    },
+    {
+        "id": 4,
+        "img": "https://i.ibb.co/Q9jbJhw/Rectangle-3.png",
+        "title": "Basic Data Structures",
+        "detail": "Get hands-on with essential data structures like arrays, linked lists, and trees.",
+        "hour": 5,
+        "price": 35000
+    },
+    {
+        "id": 5,
+        "img": "https://i.ibb.co/DPBhCdV/Rectangle-2.png",
+        "title": "Introduction to OOP Python",
+        "detail": "Learn object-oriented programming concepts in Python. Understand classes, inheritance, and more.",
+        "hour": 5,
+        "price": 19000
+    },
+    {
+        "id": 6,
+        "img": "https://i.ibb.co/wBzKKHv/Rectangle-2-5.png",
+        "title": "Software Engineering",
+        "detail": "Explore software development life cycle, testing, and project management.",
+        "hour": 2,
+        "price": 23000
+    },
+    {
+        "id": 7,
+        "img": "https://i.ibb.co/42T56HN/Rectangle-3-1.png",
+        "title": "AWS, Cloud Computing",
+        "detail": "Dive into Amazon Web Services and cloud computing concepts. Learn to deploy and manage applications.",
+        "hour": 5,
+        "price": 35000
+    },
+    {
+        "id": 8,
+        "img": "https://i.ibb.co/6Z6c4fh/Rectangle-2-1.png",
+        "title": "Database (MySQL)",
+        "detail": "Gain proficiency in MySQL database management. Learn about queries, indexing, and more.",
+        "hour": 5,
+        "price": 22000
+    },
+    {
+        "id": 9,
+        "img": "https://i.ibb.co/1zyv4zX/Rectangle-2-6.png",
+        "title": "Problem-Solving Part",
+        "detail": "Hone your problem-solving skills with a variety of algorithmic challenges and puzzles.",
+        "hour": 2,
+        "price": 23000
+    }
+]
